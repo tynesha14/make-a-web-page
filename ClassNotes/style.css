@@ -1,0 +1,69 @@
+/* This is a CSS comment.*/
+
+div {
+	color: blue;
+
+}
+
+body {
+
+    padding: 20px 10px;
+    font-family: Times New Roman;
+    max-width: 2000px;
+    margin: 0 auto; 
+    font-size: 1.6em;
+    background-image: url("back.jpg");
+}                
+
+/* formating for all Paragraph*/
+p {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+/* formating for all H1 Headers*/
+
+h1 {
+
+	text-align: center;
+    background-color: black;
+	color: white;
+}
+
+ul.abc {
+    list-style-type: lower-alpha;
+}
+
+h2, h3
+{
+
+text-decoration: underline;
+text-align: center;
+
+}
+tr {
+	background-color: yellow;	
+}
+
+
+
+p {
+
+	background-color: gray;	
+}
+
+.TOC, .l2, .l3{
+
+    font-size: 1.6em;
+    background-color: lightgrey;
+    width: 1700px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+
+}
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
